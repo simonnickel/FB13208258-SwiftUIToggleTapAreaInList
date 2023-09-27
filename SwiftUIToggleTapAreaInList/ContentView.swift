@@ -31,7 +31,7 @@ struct ContentView: View {
 			} label: {
 				VStack(alignment: .leading) {
 					Text("Picker")
-					Text("-> Lable is tapable")
+					Text("-> Label is tapable")
 				}
 			}
 			
